@@ -1,1 +1,1 @@
-# TsalagiTest
+# ᎤᏂᎩᏔ: A Cherokee font for Playdate Pulp

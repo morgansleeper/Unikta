@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Test</title>
+		<!--	<link rel="stylesheet" type="text/css" href="css/main.css"> -->
+		<meta charset="UTF-8">
+		<meta name="theme-color" content="#ffffff">
+	</head>
+
+	<script src="encode.js"></script>
+
+	<body>
+
+
+		<div id="inputDiv">
+		  <textarea dir="auto" rows="2" cols="80" id="input" name="input" spellcheck="false"
+		  			onInput="document.getElementById('output').value=encode(this.value);"></textarea>
+		</div>
+
+
+		<div id="outputDiv">
+		  <textarea rows="2" cols="80" id="output" name="output" spellcheck="false"></textarea>
+		</div>
