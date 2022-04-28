@@ -73,6 +73,6 @@ __sth ab organized based on syllabary order (better to do it like that then??)
 
 ### Screenshots
 
-### Acknowledgments & extras
+## Acknowledgments & extras
 
 Project inspired by weepjp's [Japanese Pulp localization test](https://github.com/weepjp/Playdate-Pulp-Sample-jp).
