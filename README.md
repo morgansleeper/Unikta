@@ -10,7 +10,7 @@ For example, with Unikta loaded in, typing the following into Pulp:
 ```
 would give this result:
 ![image](images/osiyo_elohi.png)
-ᎣᏏᏲ, ᎡᎶᎯ! _Osiyo, Elohi!_ 'Hello World!'
+<p align = "center">ᎣᏏᏲ, ᎡᎶᎯ! 'Hello World!'</p>
 
 
 <!-- link to mapping here? and to the converter-->
@@ -20,6 +20,7 @@ Since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary
 ## Using Unikta
 
 ## Mapping
+<!-- touch up formatting in table -- center, bold some stuff, etc. (MD cheatsheet has)-->
 ||||||||||||
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 |ᎤᏂᎩᏔ:|Ꭰ|Ꭱ|Ꭲ|Ꭳ|Ꭴ|Ꭵ|
