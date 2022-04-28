@@ -6,11 +6,20 @@ Pulp is easy to use because of its limitations, but these limitations also inclu
 
 Since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary takes up 85 of those slots, punctuation is limited to the bare minimum — space, comma, period, exclamation mark, question mark, quotes, and a colon — and most of the numbers from 0-9 are rendered by visual equivalents in the syllabary: Ꮻ wi for '0', Ꮽ wu for '9', etc.
 
-<p align = "center"> Click here to use the converter:</p>
-<h1 align = "center"><a href="https://yamanot.es">ᎤᏂᎩᏔ</a></h1>
 
-## Screenshots
+### Mapping
 
-## Acknowledgments & extras
+|[space]|!|“|#|$|%|&|’|（|）|＊|+|,|-|.|／|0|1|2|3|
+|[space]|!|,|.|“|:|?|1|3|7|Ꭰ|Ꭱ|Ꭲ|Ꭳ|Ꭴ|Ꭵ|Ꭶ|Ꭷ|Ꭸ|Ꭹ|
+|||||||||||||||||||||
+|4|5|6|7|8|9|:|;|<|=|>|?|@|A|B|C|D|E|F|G|
+|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|［|
+|＼|］|^|＿|｀|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|
+|p|q|r|s|t|u|v|w|x|y|z|{|｜|}|~|
+
+
+### Screenshots
+
+### Acknowledgments & extras
 
 Project inspired by weepjp's [Japanese Pulp localization test](https://github.com/weepjp/Playdate-Pulp-Sample-jp).
