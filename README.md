@@ -1,4 +1,4 @@
-<h1> <style="font-weight: normal">ᎤᏂᎩᏔ</style> Unikta 🌱 </h1>
+<h1 style="font-weight: normal">ᎤᏂᎩᏔ</h1><h1> Unikta 🌱 </h1>
 
 Unikta (\/uːniːkʰtʰɑ/ 'seeds') is a Cherokee font for Playdate Pulp.
 
