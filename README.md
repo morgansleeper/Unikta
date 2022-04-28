@@ -16,6 +16,7 @@ __sth ab organized based on syllabary order (better to do it like that then??)
 |Pulp:|＊|+|,|-|.|／|
 ||||||||||||||||||||||
 ||Ꭶ|Ꭷ|Ꭸ|Ꭹ|Ꭺ|Ꭻ|Ꭼ|
+||ga|ka|ge|gi|go|gu|gv|
 ||0|1|2|3|4|5|6|
 ||||||||||||||||||||||
 ||Ꭽ|Ꭾ|Ꭿ|Ꮀ|Ꮁ|Ꮂ|
