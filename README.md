@@ -57,8 +57,8 @@ __sth ab organized based on syllabary order (better to do it like that then??)
 |Pulp:||u|'|M|(|X|d|x|)|H|w|
 ||||||||||||||||||||||
 ||||||||||||||||||||||
-|ᎤᏂᎩᏔ:| |!|,|.|"|:|?|
-|Pulp:| |!|"|#|$|%|&|
+|ᎤᏂᎩᏔ:|[ ]|!|,|.|"|:|?|
+|Pulp:|[ ]|!|"|#|$|%|&|
 
 ### Screenshots
 
