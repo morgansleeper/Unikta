@@ -9,8 +9,8 @@ Since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary
 __sth ab organized based on syllabary order (better to do it like that then??)
 
 ### Mapping
-||||||||||||||||||||||
-|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+||||||||||||
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 |ᎤᏂᎩᏔ:|Ꭰ|Ꭱ|Ꭲ|Ꭳ|Ꭴ|Ꭵ|
 ||a|e|i|o|u|v|
 |Pulp:|＊|+|,|-|.|／|
