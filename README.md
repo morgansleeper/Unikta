@@ -50,7 +50,7 @@ __sth ab organized based on syllabary order (better to do it like that then??)
 ||s|t|u|v|w|x|
 ||||||||||||||||||||||
 ||Ꮿ|Ᏸ|Ᏹ|Ᏺ|Ᏻ|Ᏼ|
-||y|z|{|||}|~|
+||y|z|{|｜|}|~|
 ||||||||||||||||||||||
 ||0|1|2|3|4|5|6|7|8|9|
 ||u|'|M|(|X|d|x|)|H|w|
