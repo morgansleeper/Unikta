@@ -5,6 +5,7 @@ function encode (value) {
 
 // Collapse quotes to the same one
 // “” -> " -> $
+// curly singles to '
 // , -> "
 
 	value = value.replace(/Ꭳ/g,"-")
