@@ -1,10 +1,16 @@
-<h1 style="font-weight: normal">ᎤᏂᎩᏔ</h1><h1> Unikta 🌱 </h1>
+# ᎤᏂᎩᏔ/Unikta 🌱
 
-Unikta (\/uːniːkʰtʰɑ/ 'seeds') is a Cherokee font for Playdate Pulp.
+ᎤᏂᎩᏔ/Unikta (\/uːniːkʰtʰɑ/ 'seeds') is a Cherokee font for [Playdate Pulp](https://play.date/pulp/), a tool that lets users create simple videogames and interactive stories without writing any code which can then be played in a web browser, on a computer, or on a [Playdate](https://play.date).
 
-You could use Yamanotes for ambience or to reimagine your commute, but it was designed as a companion app to the PS4/Switch game [*電車でGO！！はしろう山手線*](https://ja.wikipedia.org/wiki/%E9%9B%BB%E8%BB%8A%E3%81%A7GO!#%E9%9B%BB%E8%BB%8A%E3%81%A7GO!!_%E3%81%AF%E3%81%97%E3%82%8D%E3%81%86%E5%B1%B1%E6%89%8B%E7%B7%9A), so players can trigger the missing departure melodies before leaving each station using a phone or tablet. Along with the inner Yamanote loop, you can also trigger melodies from sections of other lines featured in the game - click the 'line' option to see what's available!
+Pulp is easy to use because of its limitations, but these limitations also include only being able to type unaccented letters of the Latin alphabet. ᎤᏂᎩᏔ/Unikta works by replacing the stock glyphs with Cherokee characters, so that while Pulp still sees them as the original alphabetic characters, they display as Cherokee syllabary instead.
 
-<p align = "center"> Click here to start:</p>
-<h1 align = "center"><a href="https://yamanot.es"><b><i>出発進行!</a></b></i></h1>
+Since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary takes up 85 of those slots, punctuation is limited to the bare minimum — space, comma, period, exclamation mark, question mark, quotes, and a colon — and most of the numbers from 0-9 are rendered by visual equivalents in the syllabary: Ꮻ wi for '0', Ꮽ wu for '9', etc.
 
-### Acknowledgments & extras
+<p align = "center"> Click here to use the converter:</p>
+<h1 align = "center"><a href="https://yamanot.es">ᎤᏂᎩᏔ</a></h1>
+
+## Screenshots
+
+## Acknowledgments & extras
+
+Project inspired by weepjp's [Japanese Pulp localization test](https://github.com/weepjp/Playdate-Pulp-Sample-jp).
