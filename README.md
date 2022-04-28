@@ -6,9 +6,7 @@ Pulp is easy to use because of its limitations, but these limitations also inclu
 
 Since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary takes up 85 of those slots, punctuation is limited to the bare minimum — space, comma, period, exclamation mark, question mark, quotes, and a colon — and most of the numbers from 0-9 are rendered by visual equivalents in the syllabary: Ꮻ _wi_ for '0', Ꮽ _wu_ for '9', etc.
 
-__sth ab organized based on syllabary order (better to do it like that then??)
-
-### Mapping
+## Mapping
 ||||||||||||
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 |ᎤᏂᎩᏔ:|Ꭰ|Ꭱ|Ꭲ|Ꭳ|Ꭴ|Ꭵ|
@@ -71,7 +69,7 @@ __sth ab organized based on syllabary order (better to do it like that then??)
 |ᎤᏂᎩᏔ:|[ ]|!|,|.|"|:|?|
 |Pulp:|[ ]|!|"|#|$|%|&|
 
-### Screenshots
+## Screenshots
 
 ## Acknowledgments & extras
 
