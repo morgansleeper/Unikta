@@ -1,6 +1,6 @@
 # ᎤᏂᎩᏔ/Unikta 🌱
 
-<img src="Unikta.png" height="128">
+<img src="Unikta.png" height="256">
 
 ᎤᏂᎩᏔ/Unikta (\/uːniːkʰtʰɑ/ 'seeds') is a Cherokee font for [Playdate Pulp](https://play.date/pulp/), a tool that lets users create simple videogames and interactive stories without writing any code which can then be played in a web browser, on a computer, or on a [Playdate](https://play.date).
 
