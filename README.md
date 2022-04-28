@@ -63,7 +63,7 @@ Since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary
 ||||||||||||||||||||||
 ||||||||||||||||||||||
 |ᎤᏂᎩᏔ:|0|1|2|3|4|5|6|7|8|9|
-|Pulp:||u|'|M|(|X|d|x|)|H|w|
+|Pulp:|u|'|M|(|X|d|x|)|H|w|
 ||||||||||||||||||||||
 ||||||||||||||||||||||
 |ᎤᏂᎩᏔ:|[ ]|!|,|.|"|:|?|
