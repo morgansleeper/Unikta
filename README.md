@@ -9,8 +9,9 @@ So with Unikta loaded into Pulp, typing the following:
 -Y|" +@9!
 ```
 gives this result:
-![image](images/osiyo_elohi.png)
-<p align = "center">ᎣᏏᏲ, ᎡᎶᎯ! 'Hello World!'</p>
+<p align = "center">
+<img src="images/osiyo_elohi.png" width="80%"></img>
+ᎣᏏᏲ, ᎡᎶᎯ! 'Hello World!'</p>
 
 A full chart of how Unikta maps characters mapping is [below](#mapping), but you don't need to worry about it to use it; you can use the Uni
 
