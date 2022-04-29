@@ -1,5 +1,7 @@
 # ᎤᏂᎩᏔ/Unikta 🌱
 
+<img src="images/fontpic.png" width="80%"></img>
+
 ᎤᏂᎩᏔ/Unikta (\/uːniːkʰtʰɑ/ 'seeds') is a Cherokee font for [Playdate Pulp](https://play.date/pulp/), a tool that lets users create simple videogames and interactive stories without writing any code which can then be played in a web browser, on a computer, or on a [Playdate](https://play.date).
 
 Pulp is easy to use because of its limitations, but these limitations also include only being able to use the Latin alphabet. ᎤᏂᎩᏔ/Unikta works around this by replacing the stock glyphs with the [Cherokee syllabary](https://en.wikipedia.org/wiki/Cherokee_syllabary), so that while Pulp still sees them as the original letters, numbers, and punctuation, they display as Cherokee syllabary characters instead.
