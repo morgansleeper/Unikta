@@ -4,7 +4,7 @@ function encode (value) {
   value = value.toUpperCase()
 
 // Collapse curly punctuation
-	value = value.replace(/\“/g,"\"")
+  value = value.replace(/\“/g,"\"")
   value = value.replace(/\”/g,"\"")
   value = value.replace(/\‘/g,"\'")
   value = value.replace(/\’/g,"\'")
@@ -114,8 +114,6 @@ function encode (value) {
   value = value.replace(/Ᏺ/g,"|")
   value = value.replace(/Ᏻ/g,"}")
   value = value.replace(/Ᏼ/g,"~")
-
-
 
 	return value
 	}
