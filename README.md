@@ -2,9 +2,9 @@
 
 ᎤᏂᎩᏔ/Unikta (\/uːniːkʰtʰɑ/ 'seeds') is a Cherokee font for [Playdate Pulp](https://play.date/pulp/), a tool that lets users create simple videogames and interactive stories without writing any code which can then be played in a web browser, on a computer, or on a [Playdate](https://play.date).
 
-Pulp is easy to use because of its limitations, but these limitations also include only being able to use the (unaccented) Latin alphabet. ᎤᏂᎩᏔ/Unikta works around this by replacing the stock glyphs with the [Cherokee syllabary](https://en.wikipedia.org/wiki/Cherokee_syllabary), so that while Pulp still sees them as the original letters, numbers, and punctuation, they display as Cherokee syllabary characters instead.
+Pulp is easy to use because of its limitations, but these limitations also include only being able to use the Latin alphabet. ᎤᏂᎩᏔ/Unikta works around this by replacing the stock glyphs with the [Cherokee syllabary](https://en.wikipedia.org/wiki/Cherokee_syllabary), so that while Pulp still sees them as the original letters, numbers, and punctuation, they display as Cherokee syllabary characters instead.
 
-So with Unikta loaded into Pulp, typing the following:
+For example, with Unikta loaded into Pulp, typing the following:
 ```
 -Y|" +@9!
 ```
@@ -13,15 +13,15 @@ gives this result:
 <img src="images/osiyo_elohi.png" width="80%"></img>
 <br>ᎣᏏᏲ, ᎡᎶᎯ! 'Hello World!'</p>
 
-A full chart of how each character is mapped is [below](#mapping), but you don't need to worry about mapping; you can use the Unikta Encoder here to type in syllabary and generate text to copy and paste into Pulp.
+A full chart of how each character is mapped is [below](#mapping), but you don't need to worry about mapping; you can use the encoder here to type in syllabary and generate text to copy and paste into Pulp.
 
-<h3 align = "center"><a href=""><b>Click here to use the encoder</b></i></h1>
+<h3 align = "center"><a href=""><b>Click here to use the encoder!</b></i></h1>
 
 ## Using Unikta
 
 - Download `Unikta.png` from this repository
 - After starting a new project in Pulp, go to the 'Font' page from the left-hand menu; then click the 'Import' button on top of the font preview and direct it to `Unikta.png`
-- Use the Unikta Encoder to type in anything you want to display in syllabary; it will give you text to copy-paste into Pulp for the correct mapping
+- Use the Unikta encoder to type in anything you want to display in syllabary; it will give you text to copy-paste into Pulp for the correct mapping
 -ᎰᏪᎸᎦ!
 
 A note: since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary takes up 85 of those slots, punctuation is limited to the bare minimum — space, comma, period, exclamation mark, question mark, quotes, and a colon — and most of the numbers from 0-9 are rendered by visual equivalents in the syllabary: Ꮻ _wi_ for '0', Ꮽ _wu_ for '9', etc.
