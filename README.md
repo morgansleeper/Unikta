@@ -7,11 +7,7 @@
 
 Pulp is easy to use because of its limitations, but these limitations also include only being able to use the Latin alphabet. ᎤᏂᎩᏔ/Unikta works around this by replacing the stock glyphs with the [Cherokee syllabary](https://en.wikipedia.org/wiki/Cherokee_syllabary), so that while Pulp still sees them as the original letters, numbers, and punctuation, they display as Cherokee syllabary characters instead.
 
-For example, with Unikta loaded into Pulp, typing the following:
-```
--Y|" +@9!
-```
-gives this result:
+For example, with Unikta loaded into Pulp, typing in `-Y|" +@9!` gives this result:
 <p align = "center">
 <img src="images/osiyo_elohi.png" width="80%"></img>
 <br>ᎣᏏᏲ, ᎡᎶᎯ! 'Hello World!'</p>

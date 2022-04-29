@@ -3,7 +3,7 @@ function encode (value) {
 // Collapse all ᏣᎳᎩ to uppercase
   value = value.toUpperCase()
 
-// Collapse curly punctuation
+// Collapse curly quotes
   value = value.replace(/\“/g,"\"")
   value = value.replace(/\”/g,"\"")
   value = value.replace(/\‘/g,"\'")
