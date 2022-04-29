@@ -16,7 +16,7 @@ gives this result:
 A full chart of how each character is mapped is [below](#mapping), but you don't need to worry about mapping; you can use the encoder here to type in syllabary and generate text to copy and paste into Pulp.
 
 <!-- pic of the encoder before/after this?-->
-<h3 align = "center"><a href=""><b>Click here to use the encoder!</b></i></h1>
+<h3 align = "center"><a href=""><b>Click here to use the encoder!</a></b></i></h1>
 
 ## Using Unikta
 
@@ -99,6 +99,6 @@ A few notes: since there's only space for 95 glyphs in a Pulp font and the Chero
 
 ## Acknowledgments & extras
 
-Project inspired by weepjp's Japanese [Pulp localization test](https://github.com/weepjp/Playdate-Pulp-Sample-jp).
+Project inspired by weepjp's [Japanese Pulp localization test](https://github.com/weepjp/Playdate-Pulp-Sample-jp).
 
 Encoder modeled on r12a's [Pinyin to IPA transcoder](https://github.com/r12a/app-pinyin-phonetics)
