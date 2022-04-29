@@ -13,22 +13,20 @@ gives this result:
 <img src="images/osiyo_elohi.png" width="80%"></img>
 <br>ᎣᏏᏲ, ᎡᎶᎯ! 'Hello World!'</p>
 
-A full chart of how Unikta maps characters mapping is [below](#mapping), but you don't need to worry about it to use it; you can use the Uni
+A full chart of how each character is mapped is [below](#mapping), but you don't need to worry about mapping; you can use the Unikta Encoder here to type in syllabary and generate text to copy and paste into Pulp.
 
-<!-- link to mapping here? and to the converter-->
-
-Since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary takes up 85 of those slots, punctuation is limited to the bare minimum — space, comma, period, exclamation mark, question mark, quotes, and a colon — and most of the numbers from 0-9 are rendered by visual equivalents in the syllabary: Ꮻ _wi_ for '0', Ꮽ _wu_ for '9', etc.
+<h3 align = "center"><a href=""><b>Click here to use the encoder</b></i></h1>
 
 ## Using Unikta
 
 - Download `Unikta.png` from this repository
 - After starting a new project in Pulp, go to the 'Font' page from the left-hand menu; then click the 'Import' button on top of the font preview and direct it to `Unikta.png`
-- Use the Unikta Encoder to type in anything you want to display in syllabary; it will give you the sequence to copy-paste into Pulp for the correct mapping
--
+- Use the Unikta Encoder to type in anything you want to display in syllabary; it will give you text to copy-paste into Pulp for the correct mapping
+-ᎰᏪᎸᎦ!
 
+A note: since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary takes up 85 of those slots, punctuation is limited to the bare minimum — space, comma, period, exclamation mark, question mark, quotes, and a colon — and most of the numbers from 0-9 are rendered by visual equivalents in the syllabary: Ꮻ _wi_ for '0', Ꮽ _wu_ for '9', etc.
 
 ## Mapping
-<!-- touch up formatting in table -- center, bold some stuff, etc. (MD cheatsheet has)-->
 ||||||||||||
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 |ᎤᏂᎩᏔ:|Ꭰ|Ꭱ|Ꭲ|Ꭳ|Ꭴ|Ꭵ|
