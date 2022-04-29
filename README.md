@@ -99,6 +99,6 @@ A few notes: since there's only space for 95 glyphs in a Pulp font and the Chero
 
 ## Acknowledgments & extras
 
-Project inspired by weepjp's [Japanese Pulp localization test](https://github.com/weepjp/Playdate-Pulp-Sample-jp).
+Project inspired by weepjp's Japanese [Pulp localization test](https://github.com/weepjp/Playdate-Pulp-Sample-jp).
 
 Encoder modeled on r12a's [Pinyin to IPA transcoder](https://github.com/r12a/app-pinyin-phonetics)
