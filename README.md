@@ -91,8 +91,9 @@ Since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary
 |Pulp:|[ ]|!|"|#|$|%|&|
 
 ## Screenshots
-![image](images/screenshot.png)
-![image](images/screenshot2.png)
+<img src="images/screenshot.png" width="45%"></img>
+<img src="images/screenshot2.png" width="45%"></img>
+
 
 ## Acknowledgments & extras
 
