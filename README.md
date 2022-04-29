@@ -23,7 +23,7 @@ A full chart of how each character is mapped is [below](#mapping), but you don't
 - Download `Unikta.png` from this repository
 - After starting a new project in Pulp, go to the 'Font' page from the left-hand menu; then click the 'Import' button on top of the font preview and direct it to `Unikta.png`
 - Use the Unikta encoder to type in anything you want to display in syllabary; it will give you text to copy-paste into Pulp for the correct mapping
--ᎰᏪᎸᎦ!
+- ᎰᏪᎸᎦ!
 
 A few notes: since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary takes up 85 of those slots, punctuation is limited to the bare minimum — space, comma, period, exclamation mark, question mark, quotes, and a colon — and most of the numbers from 0-9 are rendered by visual equivalents in the syllabary: Ꮻ _wi_ for '0', Ꮽ _wu_ for '9', etc.
 
