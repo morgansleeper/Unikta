@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<title>Unikta Encoder</title>
-		<!--	<link rel="stylesheet" type="text/css" href="css/main.css"> -->
+	  <link rel="stylesheet" type="text/css" href="main.css">
 		<meta charset="UTF-8">
 		<meta name="theme-color" content="#ffffff">
 	</head>
@@ -12,14 +12,48 @@
 
 	<body>
 
-		<div id="inputDiv">
-		  <textarea dir="auto" rows="2" cols="80" id="input" name="input" spellcheck="false"
-		  			onInput="document.getElementById('output').value=encode(this.value);"></textarea>
+		<div class="header">
+  			<h1>ᎤᏂᎩᏔ<br>Unikta</h1>
 		</div>
 
+		<div class="encoder">
+			<svg width="80%" height="400">
 
-		<div id="outputDiv">
-		  <textarea rows="2" cols="80" id="output" name="output" spellcheck="false"></textarea>
+				<rect x="40" y="40" rx="30" ry="30" width="40%" height="200"
+							style="fill:lightgrey;stroke:#6c00ff;stroke-width:6;opacity:1;"/>
+
+					<foreignObject x="55" y="50" width="40%" height="40%">
+						<h2 style="position:relative;left:-18px;text-align:center">ᏣᎳᎩ</h2>
+						<div id="inputDiv">
+								<textarea dir="auto" rows="12" style="width:88%" id="input" name="input" spellcheck="false" border-radius="50px"
+								 		onInput="document.getElementById('output').value=encode(this.value);">ᎣᏏᏲ! Type in syllabary here!</textarea>
+						</div>
+					</foreignObject>
+
+				<rect x="50%" y="40" rx="30" ry="30" width="40%" height="200"
+							style="fill:lightgrey;stroke:#6c00ff;stroke-width:6;opacity:1;"/>
+
+					<foreignObject x="52%" y="50" width="40%" height="40%">
+						<h2 style="position:relative;left:-15px;text-align:center">Pulp</h2>
+						<div id="outputDiv">
+								<textarea rows="12" style="width:88%" id="output" name="output" spellcheck="false" border-radius"50px"></textarea>
+						</div>
+					</foreignObject>
+
+			</svg>
+		</div>
+
+				<div class="description">
+					<p>ᎤᏂᎩᏔ/Unikta is a Cherokee font and character encoder for
+					<a href="https://play.date/pulp/">Playdate Pulp</a>,
+					which lets people write videogames and interactive stories
+					without using any code. This tool lets you type in Cherokee syllabary on the left,
+					and get text to paste into Pulp on the right.
+					<p>You can download Unikta and learn more about how to use it <a href="https://github.com/morgansleeper/Unikta">here!</a></p>
+				</div>
+
+		<div class="footer">
+			<h3><a href="https://github.com/morgansleeper/Unikta">about</a></h3>
 		</div>
 
 	</body>
