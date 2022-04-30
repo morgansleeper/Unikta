@@ -1,6 +1,6 @@
 function encode (value) {
 
-// Collapse all ᏣᎳᎩ to uppercase
+// Collapse all lowercase ᏣᎳᎩ to uppercase
   value = value.toUpperCase()
 
 // Collapse curly quotes
