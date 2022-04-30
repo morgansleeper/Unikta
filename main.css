@@ -18,7 +18,7 @@ margin-bottom: 0.1em;
 
 p {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
-	font-size:2vw;
+	font-size:1.3em;
 	font-weight:normal;
 	color: dimgrey;
 }
@@ -64,3 +64,25 @@ a {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	font-size: 3vw;
 	padding: 10px;
+}
+
+.leftfoot {
+	position: fixed;
+	bottom: -20px;
+	left: 0;
+	text-align: left;
+	color: white;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-size: 3vw;
+	padding: 10px;
+}
+
+.rotate_image {
+	 -webkit-transform: rotate(20deg);
+	 -moz-transform: rotate(20deg);
+	 -ms-transform: rotate(20deg);
+	 -o-transform: rotate(20deg);
+	 transform: rotate(20deg);
+	 border: 1px solid black;
+	 border-radius: 5px;
+}
