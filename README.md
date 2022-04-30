@@ -18,7 +18,7 @@ A full chart of how each character is mapped is provided [below](#mapping), but 
 
 ## Using Unikta
 
-- Download `[Unikta.png](images/Unikta.png)` from this repository
+- Download `Unikta.png` from this repository
 - After starting a new project in Pulp, go to the 'Font' page from the left-hand menu; then click the 'Import' button on top of the font preview and direct it to `Unikta.png`
 - Use the [Unikta character encoder](https://morgansleeper.github.io/Unikta/index.html) to type in anything you want to display in syllabary; it will give you text to copy-paste into Pulp for the correct mapping
 - ᎰᏪᎸᎦ!
