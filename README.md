@@ -104,3 +104,5 @@ A few notes:
 Project inspired by weepjp's [Japanese localization test](https://github.com/weepjp/Playdate-Pulp-Sample-jp) of Pulp and its sample game.
 
 Character encoder modeled on r12a's [Pinyin to IPA transcoder](https://github.com/r12a/app-pinyin-phonetics).
+
+Playdate is a trademark of [Panic](https://panic.com).
