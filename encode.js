@@ -29,7 +29,7 @@ function encode (value) {
   value = value.replace(/\?/g,"&")
 
 // Syllabary
-	value = value.replace(/Ꭰ/g,"*")
+  value = value.replace(/Ꭰ/g,"*")
   value = value.replace(/Ꭱ/g,"+")
   value = value.replace(/Ꭲ/g,",")
   value = value.replace(/Ꭳ/g,"-")
