@@ -14,7 +14,7 @@ For example, with Unikta loaded into Pulp, typing in `-Y|" +@9!` gives this resu
 
 A full chart of how each character is mapped is provided [below](#mapping), but you don't need to worry about mapping to use the font; you can use the [Unikta character encoder](https://morgansleeper.github.io/Unikta/index.html) to type in syllabary and generate text to copy and paste directly into Pulp.
 
-<h3 align = "center"><a href="https://morgansleeper.github.io/Unikta/index.html"><b>Click here to use the character encoder!</a></b></i></h1>
+<h3 align = "center"><a href="https://morgansleeper.github.io/Unikta/index.html"><b>Click here to use the character encoder!</a></b></h1>
 
 ## Using Unikta
 
@@ -27,7 +27,7 @@ A few notes:
 
    - Since there's only space for 95 glyphs in a Pulp font and the Cherokee syllabary takes up 85 of those slots, punctuation is limited to the bare minimum — space, comma, period, exclamation mark, question mark, quotes, and a colon.
 
-   - For the same reason, most of the numbers from 0-9 are rendered by visual equivalents in the syllabary: Ꮻ _wi_ for '0', Ꮽ _wu_ for '9', etc. The character encoder takes this into account, so you can type in numbers and get the correct equivalent to paste into Pulp.
+   - For the same reason, most of the numbers from 0-9 are rendered by visual equivalents in the syllabary: Ꮻ _wi_ for '0', Ꮽ _wu_ for '9', etc. The character encoder takes this into account, so you can type in numbers and get the correct equivalents to paste into Pulp.
 
 ## Mapping
 ||||||||||||
