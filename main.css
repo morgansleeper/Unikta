@@ -12,6 +12,7 @@ padding-bottom:0px;
 
 h2	{
 font-family:'Helvetica', 'Arial', 'Sans-Serif';
+color: dimgrey;
 margin-bottom: 0.1em;
 }
 
@@ -23,7 +24,7 @@ p {
 }
 
 textarea {
-font-size:1em;
+font-size:1.2em;
 background-color: lightgrey;
 border: 0px solid grey;
 }

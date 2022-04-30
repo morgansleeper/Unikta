@@ -12,9 +12,8 @@ For example, with Unikta loaded into Pulp, typing in `-Y|" +@9!` gives this resu
 <img src="images/osiyo_elohi.png" width="80%"></img>
 <br>ᎣᏏᏲ, ᎡᎶᎯ! 'Hello World!'</p>
 
-A full chart of how each character is mapped is [below](#mapping), but you don't need to worry about mapping; you can use the [Unikta character encoder](https://morgansleeper.github.io/Unikta/index.html) to type in syllabary and generate text to copy and paste into Pulp.
+A full chart of how each character is mapped is provided [below](#mapping), but you don't need to worry about mapping; you can use the [Unikta character encoder](https://morgansleeper.github.io/Unikta/index.html) to type in syllabary and generate text to copy and paste directly into Pulp.
 
-<!-- pic of the encoder before/after this?-->
 <h3 align = "center"><a href="https://morgansleeper.github.io/Unikta/index.html"><b>Click here to use the character encoder!</a></b></i></h1>
 
 ## Using Unikta
