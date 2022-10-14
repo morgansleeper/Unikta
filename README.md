@@ -94,7 +94,7 @@ A few notes:
 
 ## Screenshots
 <p align="center">
-<img src="images/screenshot.png" width="80%"></img>
+<img src="images/playdate.jpeg" width="80%"></img>
 <img src="images/screenshot2.png" width="80%"></img>
 </p>
 
